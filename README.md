@@ -1,4 +1,4 @@
-# cVLyp7TE
+# Chrome Extension
 
 Quick start:
 
